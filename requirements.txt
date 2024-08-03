@@ -1,0 +1,6 @@
+torch
+Pillow
+matplotlib
+scipy
+python-dotenv
+torchvision
